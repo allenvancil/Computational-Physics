@@ -1,5 +1,5 @@
 import numpy as np, matplotlib.pyplot as plt
-N, Npts = 100, 1000000;
+N, Npts = 100, 500000;
 analyt = 4.5*np.pi #analyical solution
 
 # formating plot area

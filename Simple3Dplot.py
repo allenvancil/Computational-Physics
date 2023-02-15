@@ -1,3 +1,5 @@
+#can get fig. to open, but has nothing on it.
+
 import matplotlib.pylab as p
 from mpl_toolkits.mplot3d import Axes3D
 print("Please be patient while I do importing and plotting")
@@ -14,4 +16,4 @@ ax.plot_wireframe(X, Y, Z, color='r')
 ax.set_xlabel('X')
 ax.set_ylabel('Y')
 ax.set_zlabel('Z')
-p.show()
+p.show()  
